@@ -1,0 +1,24 @@
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.csproj.AssemblyReference.cache
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.csproj.SuggestedBindingRedirects.cache
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.Form1.resources
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.Form2.resources
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.Properties.Resources.resources
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.csproj.GenerateResource.cache
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.csproj.CoreCompileInputs.cache
+D:\codes\1Visual studio\Prime1\Prime1\bin\Debug\Prime1.exe.config
+D:\codes\1Visual studio\Prime1\Prime1\bin\Debug\Prime1.exe
+D:\codes\1Visual studio\Prime1\Prime1\bin\Debug\Prime1.pdb
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.exe
+D:\codes\1Visual studio\Prime1\Prime1\obj\Debug\Prime1.pdb
+E:\Prime1\Prime1\bin\Debug\Prime1.exe.config
+E:\Prime1\Prime1\bin\Debug\Prime1.exe
+E:\Prime1\Prime1\bin\Debug\Prime1.pdb
+E:\Prime1\Prime1\obj\Debug\Prime1.csproj.AssemblyReference.cache
+E:\Prime1\Prime1\obj\Debug\Prime1.csproj.SuggestedBindingRedirects.cache
+E:\Prime1\Prime1\obj\Debug\Prime1.Form1.resources
+E:\Prime1\Prime1\obj\Debug\Prime1.Form2.resources
+E:\Prime1\Prime1\obj\Debug\Prime1.Properties.Resources.resources
+E:\Prime1\Prime1\obj\Debug\Prime1.csproj.GenerateResource.cache
+E:\Prime1\Prime1\obj\Debug\Prime1.csproj.CoreCompileInputs.cache
+E:\Prime1\Prime1\obj\Debug\Prime1.exe
+E:\Prime1\Prime1\obj\Debug\Prime1.pdb
